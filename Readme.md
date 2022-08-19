@@ -15,10 +15,10 @@ Hai! Di repo ini teman-teman bisa lihat contoh scripts Python sederhana untuk me
 
 Sebelum memulai menjalankan scriptnya, pastikan teman-teman sudah menginstall packages yang dibutuhkan ya. Bisa jalankan perintah berikut di *command prompt / terminal*  masing-masing.
 
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 ### 2. Menjalankan Scripts
 
 Setelah menginstall packages yang dibutuhkan teman-teman bisa jalankan perintah berikut untuk menjalankan scriptnya.
 
-`python main.py`
+```python main.py```
